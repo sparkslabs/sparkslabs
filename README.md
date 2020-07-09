@@ -5,7 +5,7 @@
 Get in contact:
 
 * http://sparkslabs.com/michael/
-* http://twitter.com/sparkslabs_com
+* https://twitter.com/sparkslabs_com
 * sparks DOT m AT gmail DOT com
 
 <!--
