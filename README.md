@@ -1,4 +1,12 @@
+# Michael Sparks @sparkslabs
+
 ### Hi there 👋
+
+Get in contact:
+
+* http://sparkslabs.com/michael/
+* http://twitter.com/sparkslabs_com
+* sparks DOT m AT gmail DOT com
 
 <!--
 **sparkslabs/sparkslabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
