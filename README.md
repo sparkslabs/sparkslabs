@@ -4,7 +4,8 @@
 
 Get in contact:
 
-* http://sparkslabs.com/michael/
+* Current blog: http://sparkslabs.com/blog/
+  * Old blog: http://sparkslabs.com/michael/
 * https://twitter.com/sparkslabs_com
 * sparks DOT m AT gmail DOT com
 
