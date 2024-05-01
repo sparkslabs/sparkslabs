@@ -2,12 +2,13 @@
 
 ### Hi there 👋
 
-Get in contact:
+Please note - this is my personal github account, not my work (employer's) one. The projects you see here are personal and updated as and when!
+
+Get in contact: sparks DOT m AT gmail DOT com
 
 * Current blog: http://sparkslabs.com/blog/
   * Old blog: http://sparkslabs.com/michael/
 * https://twitter.com/sparkslabs_com
-* sparks DOT m AT gmail DOT com
 
 <!--
 **sparkslabs/sparkslabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
